@@ -9,4 +9,5 @@
 
 
 --------------------------------------------------------------------------------------
-[watch this repo](https://github.com/josepraveen)
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/josepraveen?style=social">
+
