@@ -6,7 +6,7 @@ June 2021
 
 [acloudguru free courses](https://acloudguru.com/blog/news/whats-free-at-acg-june-2021)
 
-Udemy paid courses for free 
+list of websites where you can get udemy paid courses for free limited time
 --------------------------------------
 1 https://comidoc.net/
 
