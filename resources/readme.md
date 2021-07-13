@@ -4,16 +4,6 @@ July 2021
 
 [acloudguru free courses](https://acloudguru.com/blog/news/whats-free-at-acg)
 
-list of websites where you can get udemy paid courses for free limited time
---------------------------------------
-1 https://comidoc.net/
-
-2 https://www.discudemy.com/language/english
-
-3 https://www.reddit.com/r/FreeUdemyCoupons/new/
-
-4 https://www.reddit.com/search/?q=udemy%20free%20&sort=new
-
 google dorks for job hunt
 ---------------------------------------
 1 skills
