@@ -4,7 +4,7 @@ July 2021
 
 [acloudguru free courses](https://acloudguru.com/blog/news/whats-free-at-acg)
 
-google dorks for job hunt
+google dorks for searching new job openings
 ---------------------------------------
 1 skills
 
