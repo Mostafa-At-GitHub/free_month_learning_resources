@@ -1,8 +1,8 @@
-July 2021
+August 2021
 -------------------------------------
 [Get 5 free courses every week](https://learn.pluralsight.com/resource/free-course/free-weekly-course)
 
-[acloudguru free courses](https://acloudguru.com/blog/news/whats-free-at-acg)
+
 
 google dorks for searching new job openings
 ---------------------------------------
