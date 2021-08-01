@@ -2,7 +2,7 @@ August 2021
 -------------------------------------
 [Get 5 free courses every week](https://learn.pluralsight.com/resource/free-course/free-weekly-course)
 
-
+[Daily 1 Technical Ebook for free](https://www.packtpub.com/free-learning)
 
 google dorks for searching new job openings
 ---------------------------------------
