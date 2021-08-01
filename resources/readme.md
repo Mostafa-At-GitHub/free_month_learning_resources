@@ -31,6 +31,7 @@ Note: If you are over using dorks in google search, you may get robot verificati
 
 New updates coming soon.
 
+DISCLAIMER: please read the privacy policy of above mentioned websites.
 --------------------------------------------------------------------------------------
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/josepraveen?style=social">
 
