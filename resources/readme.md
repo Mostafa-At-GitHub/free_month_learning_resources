@@ -6,9 +6,10 @@ Free eBook every day on the latest in tech https://www.packtpub.com/free-learnin
 
 Free A Cloud Guru Courses https://acloudguru.com/blog/news/whats-free-at-acg
 
-Pluralsight Free weekend - https://www.pluralsight.com/offer/2021/q3-free-weekend
+Pluralsight Full Library for this weekend free - https://www.pluralsight.com/offer/2021/q3-free-weekend
 
- 
+ItProTv free weekend courses - https://twitter.com/ITProTV/status/1424779030381965312
+
 New updates coming soon.
 
 DISCLAIMER: please read the privacy policy of above mentioned websites.
