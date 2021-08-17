@@ -10,9 +10,11 @@ Pluralsight Full Library for this weekend free - https://www.pluralsight.com/off
 
 ItProTv free weekend courses - https://twitter.com/ITProTV/status/1424779030381965312
 
+Udacity Scholarship - https://www.udacity.com/scholarships/nokia-bit-scholarship
+
 New updates coming soon.
 
 DISCLAIMER: please read the privacy policy of above mentioned websites.
 --------------------------------------------------------------------------------------
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/josepraveen?style=social">
+For latest updates, follow my github profile <img alt="GitHub followers" src="https://img.shields.io/github/followers/josepraveen?style=social">
 
